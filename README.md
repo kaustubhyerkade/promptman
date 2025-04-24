@@ -61,6 +61,8 @@ Welcome to your ultimate toolkit for AI productivity. Whether you're coding, cre
 
 ```txt
 "You are a senior backend engineer. Refactor the following Python code for readability and performance. Explain your changes afterward: [paste code here]"
+```
+---
 
 
 ## 👨‍👩‍👧‍👦 Real-Life Prompt Pack – For Everyone
